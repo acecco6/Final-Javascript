@@ -1,0 +1,149 @@
+@import url("./template/nav.css");
+@import url("./template/footer.css");
+@import url("./template/modal.css");
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+#carrito__empty{
+  width: 100%;
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.25em;
+  text-align: center;
+  margin-top: 20px;
+  display: none;
+}
+.tabla__content, #carrito__on{
+    width: 100%;
+    height: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+#carrito__on{
+  display: none;
+}
+table {
+    border: 1px solid #ccc;
+    border-collapse: collapse;
+    margin: auto;
+    padding: 0;
+    width: 90%;
+    table-layout: fixed;
+  }
+  
+  table caption {
+    font-size: 1.5em;
+    margin: .5em 0 .75em;
+  }
+  
+  table tr {
+    background-color: #f8f8f8;
+    border: 1px solid #ddd;
+    padding: .35em;
+  }
+  
+  table th,
+  table td {
+    padding: .625em;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+  }
+  
+  table th {
+    font-size: .85em;
+    letter-spacing: .1em;
+    text-transform: uppercase;
+  }
+  
+  td button{
+    border: none;
+    background-color: white;
+    padding: 5px;
+    font-size: 1.02em;
+    border-radius: 3px;
+    font-family:'Roboto', sans-serif;
+    cursor: pointer;
+  }
+  td button:hover{
+    transition: all 0.2s;
+    transform: scale(1.11); 
+    color: white;
+  }
+  td button:hover a{
+    color: white;
+    transition: all 0.2s;
+  }
+  .btn-comprar{
+    background-color: #04e762;
+    margin-left: 10px;
+  }
+  .btn-comprar a{
+    text-decoration: none;
+    color: black;
+  }
+  .btn-delete{
+    background-color: #ef233c;
+  }
+
+
+  #comprar__confirm{
+    height: auto;
+    text-align: center;
+    background:#284b63;
+    width: auto; 
+    padding: 15px 20px;
+}
+#comprar__confirm p{
+    font-size: 1.3em;
+    font-family: 'Montserrat', sans-serif;
+    line-height: 50px;
+    color: white;
+}
+@media screen and (max-width: 960px) {
+    table {
+      border: 0;
+    }
+  
+    table caption {
+      font-size: 1.3em;
+    }
+    
+    table thead {
+      border: none;
+      clip: rect(0 0 0 0);
+      height: 1px;
+      margin: -1px;
+      overflow: hidden;
+      padding: 0;
+      position: absolute;
+      width: 1px;
+    }
+    
+    table tr {
+      border-bottom: 3px solid #ddd;
+      display: block;
+      margin-bottom: .625em;
+    }
+    
+    table td {
+      border-bottom: 1px solid #ddd;
+      display: block;
+      font-size: .8em;
+      text-align: right;
+    }
+    
+    table td::before {
+      content: attr(data-label);
+      float: left;
+      font-weight: bold;
+      text-transform: uppercase;
+    }
+    
+    table td:last-child {
+      border-bottom: 0;
+    }
+}

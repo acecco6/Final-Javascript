@@ -1,0 +1,289 @@
+[
+    {
+        "id":1,
+        "tipo":"amigurumi",
+        "precio":400,
+        "nombre":"Carlitos",
+        "medidas":"30 x 15 cm",
+        "img":["../Img/productos/carlitos-1.jpg","../Img/productos/carlitos-2.jpg","../Img/productos/carlitos-3.jpg"]
+    },
+
+    {
+        "id":2,
+        "tipo":"amigurumi",
+        "precio":420,
+        "nombre":"Ariel la sirenita",
+        "medidas":"30 x 15 cm",
+        "img":["../Img/productos/ariel-1.jpg","../Img/productos/ariel-2.jpg","../Img/productos/ariel-3.jpg"]
+    },
+
+    {
+        "id":3,
+        "tipo":"amigurumi",
+        "precio":450,
+        "nombre":"pikachu",
+        "medidas":"15 x 15 cm",
+        "img":["../Img/productos/pikachu-1.jpg","../Img/productos/pikachu-2.jpg","../Img/productos/pikachu-3.jpg"]
+    },
+
+    {
+        "id":4,
+        "tipo":"amigurumi",
+        "precio":400,
+        "nombre":"olaf de frozen",
+        "medidas":"15 x 10 cm",
+        "img":["../Img/productos/olaf-1.jpg","../Img/productos/olaf-2.jpg","../Img/productos/olaf-3.jpg"]
+    },
+
+    {
+        "id":5,
+        "tipo":"amigurumi",
+        "precio":380,
+        "nombre":"jirafa",
+        "medidas":"20 x 10 cm",
+        "img":["../Img/productos/jirafa-1.jpg","../Img/productos/jirafa-2.jpg","../Img/productos/jirafa-3.jpg"]
+    },
+
+    {
+        "id":6,
+        "tipo":"amigurumi",
+        "precio":490,
+        "nombre":"elsa de frozen",
+        "medidas":"30 x 15 cm",
+        "img":["../Img/productos/elsa-1.jpg","../Img/productos/elsa-2.jpg","../Img/productos/elsa-3.jpg"]
+    },
+
+    {
+        "id":7,
+        "tipo":"amigurumi",
+        "precio":480,
+        "nombre":"ana de frozen",
+        "medidas":"30 x 15 cm",
+        "img":["../Img/productos/ana-1.jpg","../Img/productos/ana-2.jpg","../Img/productos/ana-3.jpg"]
+    },
+
+    {
+        "id":8,
+        "tipo":"amigurumi",
+        "precio":500,
+        "nombre":"princesa jazmin",
+        "medidas":"30 x 15 cm",
+        "img":["../Img/productos/jazmin-1.jpg","../Img/productos/jazmin-2.jpg","../Img/productos/jazmin-3.jpg"]
+    },
+
+    {
+        "id":9,
+        "tipo":"amigurumi",
+        "precio":510,
+        "nombre":"among us",
+        "medidas":"10 x 10 cm",
+        "img":["../Img/productos/among-1.jpg","../Img/productos/among-2.jpg","../Img/productos/among-3.jpg"]
+    },
+
+    {
+        "id":10,
+        "tipo":"amigurumi",
+        "precio":460,
+        "nombre":"blancanieves",
+        "medidas":"10 x 10 cm",
+        "img":["../Img/productos/blancanieves-1.jpg","../Img/productos/blancanieves-2.jpg","../Img/productos/blancanieves-3.jpg"]
+    },
+
+    {
+        "id":11,
+        "tipo":"amigurumi",
+        "precio":430,
+        "nombre":"cenicienta",
+        "medidas":"10 x 10 cm",
+        "img":["../Img/productos/cenicienta-1.jpg","../Img/productos/cenicienta-2.jpg","../Img/productos/cenicienta-3.jpg"]
+    },
+
+    {
+        "id":12,
+        "tipo":"amigurumi",
+        "precio":390,
+        "nombre":"aurora",
+        "medidas":"10 x 10 cm",
+        "img":["../Img/productos/aurora-1.jpg","../Img/productos/aurora-2.jpg","../Img/productos/aurora-3.jpg"]
+    },
+
+    {
+        "id":13,
+        "tipo":"amigurumi",
+        "precio":520,
+        "nombre":"once",
+        "medidas":"20 x 10 cm",
+        "img":["../Img/productos/once-1.jpg","../Img/productos/once-2.jpg","../Img/productos/once-3.jpg"]
+        },
+
+    {
+        "id":14,
+        "tipo":"amigurumi",
+        "precio":590,
+        "nombre":"wolverine",
+        "medidas":"15 x 10 cm",
+        "img":["../Img/productos/wolverine-1.jpg","../Img/productos/wolverine-2.jpg","../Img/productos/wolverine-3.jpg"]
+    },
+
+    {
+        "id":15,
+        "tipo":"amigurumi",
+        "precio":360,
+        "nombre":"chewbacca",
+        "medidas":"10 x 10 cm",
+        "img":["../Img/productos/chewbacca-1.jpg","../Img/productos/chewbacca-2.jpg","../Img/productos/chewbacca-3.jpg"]
+    },
+
+    {
+        "id":16,
+        "tipo":"amigurumi",
+        "precio":600,
+        "nombre":"freddy",
+        "medidas":"15 x 10 cm",
+        "img":["../Img/productos/freddy-1.jpg","../Img/productos/freddy-2.jpg","../Img/productos/freddy-3.jpg"]
+    },
+    {
+        "id":17,
+        "tipo":"ropa",
+        "precio":850,
+        "nombre":"Chaleco Alaska",
+        "medidas":"15 x 10 cm",
+        "img":["../Img/productos/ChalecoAlaska-1.jpg","../Img/productos/ChalecoAlaska-2.jpg","../Img/productos/ChalecoAlaska-3.jpg"]
+    },
+    {
+        "id":18,
+        "tipo":"ropa",
+        "precio":800,
+        "nombre":"Chaleco Helsinki",
+        "medidas":"15 x 10 cm",
+        "img":["../Img/productos/ChalecoHelsinki-1.jpg","../Img/productos/ChalecoHelsinki-2.jpg","../Img/productos/ChalecoHelsinki-3.jpg"]
+    },
+    {
+        "id":19,
+        "tipo":"ropa",
+        "precio":600,
+        "nombre":"Cuello Ottawa",
+        "medidas":"15 x 10 cm",
+        "img":["../Img/productos/CuelloOttawa-1.jpg","../Img/productos/CuelloOttawa-2.jpg","../Img/productos/CuelloOttawa-3.jpg"]
+    },
+    {
+        "id":20,
+        "tipo":"ropa",
+        "precio":600,
+        "nombre":"Cuello Toronto",
+        "medidas":"15 x 10 cm",
+        "img":["../Img/productos/CuelloToronto-1.jpg","../Img/productos/CuelloToronto-2.jpg","../Img/productos/CuelloToronto-3.jpg"]
+    },
+    {
+        "id":21,
+        "tipo":"ropa",
+        "precio":600,
+        "nombre":"Cuello Vancouver",
+        "medidas":"15 x 10 cm",
+        "img":["../Img/productos/CuelloVancouver-1.jpg","../Img/productos/CuelloVancouver-2.jpg","../Img/productos/CuelloVancouver-3.jpg"]
+    },
+    {
+        "id":22,
+        "tipo":"ropa",
+        "precio":950,
+        "nombre":"Jardinero Tennessee",
+        "medidas":"15 x 10 cm",
+        "img":["../Img/productos/JardineroTennessee-1.jpg","../Img/productos/JardineroTennessee-2.jpg","../Img/productos/JardineroTennessee-3.jpg"]
+    },
+    {
+        "id":23,
+        "tipo":"ropa",
+        "precio":900,
+        "nombre":"Saco Denver",
+        "medidas":"15 x 10 cm",
+        "img":["../Img/productos/SacoDenver-1.jpg","../Img/productos/SacoDenver-2.jpg","../Img/productos/SacoDenver-3.jpg"]
+    },
+    {
+        "id":24,
+        "tipo":"ropa",
+        "precio":880,
+        "nombre":"Saco Levi",
+        "medidas":"15 x 10 cm",
+        "img":["../Img/productos/SacoLevi-1.jpg","../Img/productos/SacoLevi-2.jpg","../Img/productos/SacoLevi-3.jpg"]
+    },
+    {
+        "id":25,
+        "tipo":"ropa",
+        "precio":850,
+        "nombre":"Saco Nebraska",
+        "medidas":"15 x 10 cm",
+        "img":["../Img/productos/SacoNebraska-1.jpg","../Img/productos/SacoNebraska-2.jpg"]
+    },
+    {
+        "id":26,
+        "tipo":"ropa",
+        "precio":250,
+        "nombre":"Escarpines Seattle",
+        "medidas":"15 x 10 cm",
+        "img":["../Img/productos/EscarpinesSeattle.jpg","../Img/productos/EscarpinesSeattle2.jpg","../Img/productos/EscarpinesSeattle-3.jpg"]
+    },
+    {
+        "id":27,
+        "tipo":"ropa",
+        "precio":790,
+        "nombre":"Conjunto Québec",
+        "medidas":"15 x 10 cm",
+        "img":["../Img/productos/ConjuntoQuébec-1.jpg","../Img/productos/ConjuntoQuébec-2.jpg","../Img/productos/ConjuntoQuébec-3.jpg"]
+    },
+    {
+        "id":28,
+        "tipo":"ropa",
+        "precio":400,
+        "nombre":"Cuello Ontario",
+        "medidas":"15 x 10 cm",
+        "img":["../Img/productos/CuelloOntario.jpg"]
+    },
+    {
+        "id":29,
+        "tipo":"ropa",
+        "precio":290,
+        "nombre":"Gorro Osito",
+        "medidas":"15 x 10 cm",
+        "img":["../Img/productos/Gorroosito.jpg"]
+    },
+    {
+        "id":30,
+        "tipo":"deco",
+        "precio":190,
+        "nombre":"Alfombra Circular",
+        "medidas":"15 x 10 cm",
+        "img":["../Img/productos/AlfombraCircular-1.jpg","../Img/productos/AlfombraCircular-2.jpg"]
+    },
+    {
+        "id":31,
+        "tipo":"deco",
+        "precio":500,
+        "nombre":"Banderin Nombre",
+        "medidas":"15 x 10 cm",
+        "img":["../Img/productos/BanderinNombre-1.jpg","../Img/productos/BanderinNombre-2.jpg","../Img/productos/BanderinNombre-3.jpg"]
+    },
+    {
+        "id":32,
+        "tipo":"deco",
+        "precio":530,
+        "nombre":"Centro de mesa",
+        "medidas":"15 x 10 cm",
+        "img":["../Img/productos/CentroMesaMasPosaVaso-1.jpg","../Img/productos/CentroMesaMasPosaVaso-2.jpg","../Img/productos/CentroMesaMasPosaVaso-3.jpg"]
+    },
+    {
+        "id":33,
+        "tipo":"deco",
+        "precio":550,
+        "nombre":"Deco Navideña",
+        "medidas":"15 x 10 cm",
+        "img":["../Img/productos/DecoNavideña-1.jpg","../Img/productos/DecoNavideña-2.jpg","../Img/productos/DecoNavideña-3.jpg"]
+    },
+    {
+        "id":34,
+        "tipo":"deco",
+        "precio":400,
+        "nombre":"Letras",
+        "medidas":"15 x 10 cm",
+        "img":["../Img/productos/Letras-1.jpg","../Img/productos/Letras-2.jpg","../Img/productos/Letras-3.jpg"]
+    }
+]
